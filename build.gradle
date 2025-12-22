@@ -1,0 +1,25 @@
+plugins {
+    id 'java'
+    id 'maven-publish'
+}
+
+group = 'tgb.cryptoexchange'
+version = '1.0'
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+    compileOnly("org.projectlombok:lombok:1.18.42")
+    annotationProcessor("org.projectlombok:lombok:1.18.42")
+}
+
+publishing {
+    publications {
+        commons(MavenPublication) {
+            from components.java
+        }
+    }
+}
