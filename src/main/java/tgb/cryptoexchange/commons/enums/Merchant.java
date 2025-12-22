@@ -1,4 +1,4 @@
-package tgb.cryptoexchange.enums;
+package tgb.cryptoexchange.commons.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
