@@ -30,7 +30,8 @@ public enum Merchant {
     FOX_PAYS("FoxPays"),
     STORM_TRADE("StormTrade"),
     SETTLE_X("SettleX"),
-    AURORA_PAY("AuroraPay")
+    AURORA_PAY("AuroraPay"),
+    PLATA("Plata")
     ;
 
     private final String displayName;
