@@ -31,8 +31,7 @@ public enum Merchant {
     STORM_TRADE("StormTrade"),
     SETTLE_X("SettleX"),
     AURORA_PAY("AuroraPay"),
-    PLATA_PAYMENT("Plata Payment"),
-    PAY_LEE_QR("PayLee QR")
+    PLATA_PAYMENT("Plata Payment")
     ;
 
     private final String displayName;
