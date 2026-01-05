@@ -7,6 +7,7 @@ import lombok.Getter;
 @Getter
 public enum Merchant {
     ALFA_TEAM("AlfaTeam"),
+    ALFA_TEAM_WT("AlfaTeam WT"),
     ONLY_PAYS("OnlyPays"),
     EVO_PAY("EvoPay"),
     NICE_PAY("NicePay"),
