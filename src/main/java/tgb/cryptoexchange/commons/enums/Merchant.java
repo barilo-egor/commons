@@ -36,7 +36,7 @@ public enum Merchant {
     SETTLE_X("SettleX"),
     AURORA_PAY("AuroraPay"),
     PLATA_PAYMENT("Plata Payment"),
-    PLATA_18("Plata 18%"),
+    PLATA_18("Plata 18"),
     PAY_LEE_QR("PayLee QR"),
     NEURAL_PAY("NeuralPay")
     ;
