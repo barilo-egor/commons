@@ -38,7 +38,8 @@ public enum Merchant {
     PLATA_PAYMENT("Plata Payment"),
     PLATA_18("Plata 18"),
     PAY_LEE_QR("PayLee QR"),
-    NEURAL_PAY("NeuralPay")
+    NEURAL_PAY("NeuralPay"),
+    STUDIO("Studio")
     ;
 
     private final String displayName;
