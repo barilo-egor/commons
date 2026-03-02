@@ -40,7 +40,8 @@ public enum Merchant {
     PAY_LEE_QR("PayLee QR"),
     NEURAL_PAY("NeuralPay"),
     STUDIO("Studio"),
-    STUDIO_SIM("Studio sim")
+    STUDIO_SIM("Studio sim"),
+    YOLO("Yolo")
     ;
 
     private final String displayName;
