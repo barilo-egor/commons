@@ -41,7 +41,8 @@ public enum Merchant {
     NEURAL_PAY("NeuralPay"),
     STUDIO("Studio"),
     STUDIO_SIM("Studio sim"),
-    YOLO("Yolo")
+    YOLO("Yolo"),
+    ALFA_TEAM_QR("AlfaTeam QR")
     ;
 
     private final String displayName;
