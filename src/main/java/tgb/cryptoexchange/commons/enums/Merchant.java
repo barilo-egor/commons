@@ -18,6 +18,8 @@ public enum Merchant {
     BIT_ZONE("BitZone"),
     ONYX_PAY("OnyxPay"),
     EXTASY_PAY("ExtasyPay"),
+    EXTASY_PAY_RECEIPT("ExtasyPay Receipt"),
+    EXTASY_PAY_QR("ExtasyPay QR"),
     PAY_LEE("PayLee"),
     PSP_WARE("PSPWare"),
     PAY_CROWN("PayCrown"),
