@@ -8,6 +8,7 @@ import lombok.Getter;
 public enum Merchant {
     ALFA_TEAM("AlfaTeam"),
     ALFA_TEAM_WT("AlfaTeam WT"),
+    ALFA_TEAM_QR("AlfaTeam QR"),
     ONLY_PAYS("OnlyPays"),
     EVO_PAY("EvoPay"),
     NICE_PAY("NicePay"),
