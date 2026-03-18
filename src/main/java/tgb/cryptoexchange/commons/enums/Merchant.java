@@ -31,6 +31,7 @@ public enum Merchant {
     ROSTRAST("Rostrast"),
     FOX_PAYS("FoxPays"),
     STORM_TRADE("StormTrade"),
+    STORM_TRADE_13("StormTrade 13"),
     SETTLE_X("SettleX"),
     SETTLE_X_15("SettleX 15"),
     PLATA_PAYMENT("Plata Payment"),
