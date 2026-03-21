@@ -32,6 +32,7 @@ public enum Merchant {
     FOX_PAYS("FoxPays"),
     STORM_TRADE("StormTrade"),
     SETTLE_X("SettleX"),
+    SETTLE_X_15("SettleX 15"),
     PLATA_PAYMENT("Plata Payment"),
     PLATA_18("Plata 18"),
     PAY_LEE_QR("PayLee QR"),
