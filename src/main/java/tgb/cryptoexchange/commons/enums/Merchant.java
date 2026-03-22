@@ -41,6 +41,7 @@ public enum Merchant {
     STUDIO("Studio"),
     STUDIO_SIM("Studio sim"),
     YOLO("Yolo"),
+    YOLO_SIM("Yolo sim"),
     NOROS("Noros"),
     NOROS_HIGH_CHECK("Noros High Check"),
     FIAT_CUT("FiatCut"),
