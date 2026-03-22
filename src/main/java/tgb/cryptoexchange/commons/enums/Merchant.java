@@ -42,7 +42,8 @@ public enum Merchant {
     STUDIO_SIM("Studio sim"),
     YOLO("Yolo"),
     NOROS("Noros"),
-    NOROS_HIGH_CHECK("Noros High Check")
+    NOROS_HIGH_CHECK("Noros High Check"),
+    FIAT_CUT("FiatCut"),
     ;
 
     private final String displayName;
