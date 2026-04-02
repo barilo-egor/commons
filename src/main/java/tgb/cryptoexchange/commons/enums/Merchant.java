@@ -45,7 +45,9 @@ public enum Merchant {
     NOROS("Noros"),
     NOROS_HIGH_CHECK("Noros High Check"),
     FIAT_CUT("FiatCut"),
-    VIATRUM("Viatrum")
+    VIATRUM("Viatrum"),
+    CASH_OUT("Cash Out"),
+    PW_PAY("PWPay")
     ;
 
     private final String displayName;
