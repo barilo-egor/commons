@@ -17,6 +17,7 @@ public enum Merchant {
     ONYX_PAY("OnyxPay"),
     EXTASY_PAY("ExtasyPay"),
     EXTASY_PAY_RECEIPT("ExtasyPay Receipt"),
+    EXTASY_PAY_RECEIPT_TRIPLE_PLUS("ExtasyPay Receipt 3+"),
     EXTASY_PAY_QR("ExtasyPay QR"),
     PAY_LEE("PayLee"),
     PSP_WARE("PSPWare"),
