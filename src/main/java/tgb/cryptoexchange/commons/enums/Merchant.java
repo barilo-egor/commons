@@ -48,7 +48,8 @@ public enum Merchant {
     FIAT_CUT("FiatCut"),
     VIATRUM("Viatrum"),
     CASH_OUT("Cash Out"),
-    PW_PAY("PWPay")
+    PW_PAY("PWPay"),
+    GOAT_X("GOATX")
     ;
 
     private final String displayName;
