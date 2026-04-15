@@ -51,7 +51,8 @@ public enum Merchant {
     CASH_OUT("Cash Out"),
     PW_PAY("PWPay"),
     GOAT_X("GOATX"),
-    GOAT_X_SIM("GOATX Sim")
+    GOAT_X_SIM("GOATX Sim"),
+    LOTRIEN("Lotrien")
     ;
 
     private final String displayName;
