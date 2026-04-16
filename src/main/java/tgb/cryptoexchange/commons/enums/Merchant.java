@@ -53,7 +53,8 @@ public enum Merchant {
     GOAT_X("GOATX"),
     GOAT_X_SIM("GOATX Sim"),
     LOTRIEN("Lotrien"),
-    GAMBIT("Gambit")
+    GAMBIT("Gambit"),
+    GAMBIT_SIM("Gambit Sim")
     ;
 
     private final String displayName;
