@@ -54,7 +54,11 @@ public enum Merchant {
     GOAT_X_SIM("GOATX Sim"),
     LOTRIEN("Lotrien"),
     GAMBIT("Gambit"),
-    GAMBIT_SIM("Gambit Sim")
+    GAMBIT_SIM("Gambit Sim"),
+    ASGARD("Asgard"),
+    ASGARD_WT("Asgard WT"),
+    ASGARD_SIM("Asgard Sim"),
+    ASGARD_HIGH_CHECK("Asgard High Check")
     ;
 
     private final String displayName;
