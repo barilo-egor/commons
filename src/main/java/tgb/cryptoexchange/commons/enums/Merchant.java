@@ -59,7 +59,8 @@ public enum Merchant {
     ASGARD_WT("Asgard WT"),
     ASGARD_SIM("Asgard Sim"),
     ASGARD_HIGH_CHECK("Asgard High Check"),
-    Z_PAY("Z-PAY")
+    Z_PAY("Z-PAY"),
+    MANSORY("Mansory")
     ;
 
     private final String displayName;
