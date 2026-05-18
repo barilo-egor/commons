@@ -63,7 +63,12 @@ public enum Merchant {
     DEORA("Deora"),
     ECLIPSE_GATE("EclipseGate"),
     ECLIPSE_GATE_HIGH_CHECK("EclipseGate High Check"),
-    ECLIPSE_GATE_LOW_CHECK("EclipseGate Low Check");
+    ECLIPSE_GATE_LOW_CHECK("EclipseGate Low Check"),
+    MERIDIAN_PAY("MeridianPay"),
+    MERIDIAN_PAY_HIGH_CHECK("MeridianPay High Check"),
+    MERIDIAN_PAY_LOW_CHECK("MeridianPay Low Check"),
+    MERIDIAN_PAY_SIM("MeridianPay Sim"),
+    MERIDIAN_PAY_NSPK("MeridianPay Nspk");
 
     private final String displayName;
 }
