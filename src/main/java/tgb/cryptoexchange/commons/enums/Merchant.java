@@ -60,8 +60,9 @@ public enum Merchant {
     ASGARD_SIM("Asgard Sim"),
     ASGARD_HIGH_CHECK("Asgard High Check"),
     Z_PAY("Z-PAY"),
-    ECLIPSE_GATE("EclipseGate")
-    ;
+    ECLIPSE_GATE("EclipseGate"),
+    ECLIPSE_GATE_HIGH_CHECK("EclipseGate High Check"),
+    ECLIPSE_GATE_LOW_CHECK("EclipseGate Low Check");
 
     private final String displayName;
 }
