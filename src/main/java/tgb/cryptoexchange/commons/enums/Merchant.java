@@ -68,7 +68,11 @@ public enum Merchant {
     MERIDIAN_PAY_HIGH_CHECK("MeridianPay High Check"),
     MERIDIAN_PAY_LOW_CHECK("MeridianPay Low Check"),
     MERIDIAN_PAY_SIM("MeridianPay Sim"),
-    MERIDIAN_PAY_NSPK("MeridianPay Nspk");
+    MERIDIAN_PAY_NSPK("MeridianPay Nspk"),
+    MANSORY("Mansory"),
+    MANSORY_HIGH_CHECK("Mansory High Check"),
+    MANSORY_LOW_CHECK("Mansory Low Check")
+    ;
 
     private final String displayName;
 }
