@@ -76,7 +76,8 @@ public enum Merchant {
     MANSORY_LOW_CHECK("Mansory Low Check"),
     SOUZ("Souz"),
     SOUZ_SBP_QR("Souz SBP QR"),
-    SOUZ_SIM("Souz SIM")
+    SOUZ_SIM("Souz SIM"),
+    TM_PAY("TMPay"),
     ;
 
     private final String displayName;
