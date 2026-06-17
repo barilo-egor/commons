@@ -79,6 +79,7 @@ public enum Merchant {
     SOUZ_SBP_QR("Souz SBP QR"),
     SOUZ_SIM("Souz SIM"),
     TM_PAY("TMPay"),
+    BASE_51("Base 51")
     ;
 
     private final String displayName;
