@@ -80,7 +80,9 @@ public enum Merchant {
     SOUZ_SIM("Souz SIM"),
     TM_PAY("TMPay"),
     BASE_51("Base 51"),
-    BASE_51_SIM("Base 51 SIM")
+    BASE_51_SIM("Base 51 SIM"),
+    BASE_51_LOW_CHECK("Base 51 Low Check"),
+    BASE_51_HIGH_CHECK("Base 51 High Check")
     ;
 
     private final String displayName;
