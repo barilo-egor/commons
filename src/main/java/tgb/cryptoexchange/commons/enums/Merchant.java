@@ -84,7 +84,9 @@ public enum Merchant {
     BASE_51_SIM("Base 51 SIM"),
     BASE_51_LOW_CHECK("Base 51 Low Check"),
     BASE_51_HIGH_CHECK("Base 51 High Check"),
-    BUCKS_PAY("Bucks Pay")
+    BUCKS_PAY("Bucks Pay"),
+    BUCKS_PAY_SIM("Bucks Pay Sim"),
+    BUCKS_PAY_HIGH_CHECK("Bucks Pay High Check")
     ;
 
     private final String displayName;
