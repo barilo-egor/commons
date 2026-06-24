@@ -78,12 +78,16 @@ public enum Merchant {
     SOUZ("Souz"),
     SOUZ_SBP_QR("Souz SBP QR"),
     SOUZ_SIM("Souz SIM"),
+    SOUZ_PDF("Souz PDF"),
     TM_PAY("TMPay"),
     BASE_51("Base 51"),
     BASE_51_SIM("Base 51 SIM"),
     BASE_51_LOW_CHECK("Base 51 Low Check"),
     BASE_51_HIGH_CHECK("Base 51 High Check"),
-    PRISMA_PAY("Prisma Pay")
+    PRISMA_PAY("Prisma Pay"),
+    BUCKS_PAY("Bucks Pay"),
+    BUCKS_PAY_SIM("Bucks Pay Sim"),
+    BUCKS_PAY_HIGH_CHECK("Bucks Pay High Check"),
     ;
 
     private final String displayName;
