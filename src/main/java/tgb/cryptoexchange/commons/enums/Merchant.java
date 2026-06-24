@@ -88,6 +88,9 @@ public enum Merchant {
     BUCKS_PAY("Bucks Pay"),
     BUCKS_PAY_SIM("Bucks Pay Sim"),
     BUCKS_PAY_HIGH_CHECK("Bucks Pay High Check"),
+    MANY_PAY("Many Pay"),
+    MANY_PAY_HIGH_CHECK("Many Pay High Check"),
+    MANY_PAY_LOW_CHECK("Many Pay Low Check")
     ;
 
     private final String displayName;
