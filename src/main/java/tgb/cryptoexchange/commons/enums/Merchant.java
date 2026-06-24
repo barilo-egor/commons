@@ -63,6 +63,7 @@ public enum Merchant {
     DEORA("Deora"),
     DEORA_SIM("Deora Sim"),
     DEORA_LOW_CHECK("Deora Low Check"),
+    DEORA_PDF("Deora PDF"),
     ECLIPSE_GATE("EclipseGate"),
     ECLIPSE_GATE_HIGH_CHECK("EclipseGate High Check"),
     ECLIPSE_GATE_LOW_CHECK("EclipseGate Low Check"),
@@ -83,9 +84,10 @@ public enum Merchant {
     BASE_51_SIM("Base 51 SIM"),
     BASE_51_LOW_CHECK("Base 51 Low Check"),
     BASE_51_HIGH_CHECK("Base 51 High Check"),
+    PRISMA_PAY("Prisma Pay"),
     BUCKS_PAY("Bucks Pay"),
     BUCKS_PAY_SIM("Bucks Pay Sim"),
-    BUCKS_PAY_HIGH_CHECK("Bucks Pay High Check")
+    BUCKS_PAY_HIGH_CHECK("Bucks Pay High Check"),
     ;
 
     private final String displayName;
