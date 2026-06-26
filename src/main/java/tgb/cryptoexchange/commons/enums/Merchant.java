@@ -85,9 +85,8 @@ public enum Merchant {
     BASE_51_LOW_CHECK("Base 51 Low Check"),
     BASE_51_HIGH_CHECK("Base 51 High Check"),
     PRISMA_PAY("Prisma Pay"),
-    BUCKS_PAY("Bucks Pay"),
     BUCKS_PAY_SIM("Bucks Pay Sim"),
-    BUCKS_PAY_HIGH_CHECK("Bucks Pay High Check"),
+    BUCKS_PAY("Bucks Pay"),
     MANY_PAY("Many Pay"),
     MANY_PAY_HIGH_CHECK("Many Pay High Check"),
     MANY_PAY_LOW_CHECK("Many Pay Low Check")
