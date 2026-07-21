@@ -90,7 +90,11 @@ public enum Merchant {
     MANY_PAY("Many Pay"),
     MANY_PAY_HIGH_CHECK("Many Pay High Check"),
     MANY_PAY_LOW_CHECK("Many Pay Low Check"),
-    PAYSYNC("PaySync")
+    PAYSYNC("PaySync"),
+    CUBE("Cube"),
+    CUBE_LOW_CHECK("Cube Low Check"),
+    CUBE_HIGH_CHECK("Cube High Check"),
+    CUBE_SIM("Cube Sim"),
     ;
 
     private final String displayName;
