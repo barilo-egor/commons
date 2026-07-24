@@ -53,6 +53,7 @@ public enum Merchant {
     GOAT_X("GOATX"),
     GOAT_X_SIM("GOATX Sim"),
     LOTRIEN("Lotrien"),
+    LOTRIEN_PDF("Lotrien PDF"),
     GAMBIT("Gambit"),
     GAMBIT_SIM("Gambit Sim"),
     ASGARD("Asgard"),
