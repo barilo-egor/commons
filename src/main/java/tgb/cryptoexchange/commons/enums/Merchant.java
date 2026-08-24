@@ -79,7 +79,9 @@ public enum Merchant {
     CUBE_HIGH_CHECK("Cube High Check"),
     CUBE_SIM("Cube Sim"),
     RS_PAY("RSPay"),
-    RS_PAY_BT("RSPay BT")
+    RS_PAY_BT("RSPay BT"),
+    WAT("Wat"),
+    WAT_SIM("Wat SIM")
     ;
 
     private final String displayName;
