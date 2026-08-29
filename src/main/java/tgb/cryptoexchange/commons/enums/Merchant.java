@@ -81,7 +81,8 @@ public enum Merchant {
     RS_PAY("RSPay"),
     RS_PAY_BT("RSPay BT"),
     WAT("Wat"),
-    WAT_SIM("Wat SIM")
+    WAT_SIM("Wat SIM"),
+    WAT_PDF("Wat PDF")
     ;
 
     private final String displayName;
