@@ -82,7 +82,11 @@ public enum Merchant {
     RS_PAY_BT("RSPay BT"),
     WAT("Wat"),
     WAT_SIM("Wat SIM"),
-    WAT_PDF("Wat PDF")
+    WAT_PDF("Wat PDF"),
+    TRON_EX_SIM("TronEx SIM"),
+    TRON_EX_BT("TronEx BT"),
+    TRON_EX_QR("TronEx QR"),
+    TRON_EX_PDF("TronEx PDF")
     ;
 
     private final String displayName;
