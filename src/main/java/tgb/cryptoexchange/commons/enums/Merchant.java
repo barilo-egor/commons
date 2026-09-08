@@ -25,6 +25,7 @@ public enum Merchant {
     PAYSCROW_WHITE_TRIANGLE("Payscrow WT"),
     PAYSCROW_SIM("Payscrow SIM"),
     PAYSCROW_LOW("Payscrow LOW"),
+    PAYSCROW_TRANSGRAN("Payscrow Transgran"),
     GEO_TRANSFER("GeoTransfer"),
     ROSTRAST("Rostrast"),
     STORM_TRADE("StormTrade"),
