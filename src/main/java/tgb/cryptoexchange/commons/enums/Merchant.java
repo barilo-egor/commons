@@ -89,6 +89,9 @@ public enum Merchant {
     TRON_EX_BT("TronEx BT"),
     TRON_EX_QR("TronEx QR"),
     TRON_EX_PDF("TronEx PDF"),
+    PRIME_WALLET("PrimeWallet"),
+    PRIME_WALLET_LOW_CHECK("PrimeWallet Low Check"),
+    PRIME_WALLET_HIGH_CHECK("PrimeWallet High Check"),
     BAY_PAY("BayPay")
     ;
 
