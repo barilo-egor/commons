@@ -91,7 +91,8 @@ public enum Merchant {
     TRON_EX_PDF("TronEx PDF"),
     PRIME_WALLET("PrimeWallet"),
     PRIME_WALLET_LOW_CHECK("PrimeWallet Low Check"),
-    PRIME_WALLET_HIGH_CHECK("PrimeWallet High Check")
+    PRIME_WALLET_HIGH_CHECK("PrimeWallet High Check"),
+    BAY_PAY("BayPay")
     ;
 
     private final String displayName;
