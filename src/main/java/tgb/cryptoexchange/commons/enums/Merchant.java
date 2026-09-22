@@ -24,6 +24,8 @@ public enum Merchant {
     PAYSCROW_HIGH_CHECK("Payscrow High Check"),
     PAYSCROW_WHITE_TRIANGLE("Payscrow WT"),
     PAYSCROW_SIM("Payscrow SIM"),
+    PAYSCROW_LOW("Payscrow LOW"),
+    PAYSCROW_TRANSGRAN("Payscrow Transgran"),
     GEO_TRANSFER("GeoTransfer"),
     ROSTRAST("Rostrast"),
     STORM_TRADE("StormTrade"),
@@ -86,7 +88,10 @@ public enum Merchant {
     TRON_EX_SIM("TronEx SIM"),
     TRON_EX_BT("TronEx BT"),
     TRON_EX_QR("TronEx QR"),
-    TRON_EX_PDF("TronEx PDF")
+    TRON_EX_PDF("TronEx PDF"),
+    PRIME_WALLET("PrimeWallet"),
+    PRIME_WALLET_LOW_CHECK("PrimeWallet Low Check"),
+    PRIME_WALLET_HIGH_CHECK("PrimeWallet High Check")
     ;
 
     private final String displayName;
