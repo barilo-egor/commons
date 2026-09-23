@@ -92,7 +92,9 @@ public enum Merchant {
     PRIME_WALLET("PrimeWallet"),
     PRIME_WALLET_LOW_CHECK("PrimeWallet Low Check"),
     PRIME_WALLET_HIGH_CHECK("PrimeWallet High Check"),
-    BAY_PAY("BayPay")
+    BAY_PAY("BayPay"),
+    HESOYAM("Hesoyam"),
+    HESOYAM_SIM("Hesoyam Sim"),
     ;
 
     private final String displayName;
