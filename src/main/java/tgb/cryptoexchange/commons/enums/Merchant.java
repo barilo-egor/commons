@@ -95,6 +95,8 @@ public enum Merchant {
     BAY_PAY("BayPay"),
     HESOYAM("Hesoyam"),
     HESOYAM_SIM("Hesoyam Sim"),
+    HELLBIT("HellBit"),
+    HELLBIT_BT("HellBit BT")
     ;
 
     private final String displayName;
