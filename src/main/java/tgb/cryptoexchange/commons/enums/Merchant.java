@@ -98,6 +98,7 @@ public enum Merchant {
     HELLBIT("HellBit"),
     HELLBIT_BT("HellBit BT"),
     SMACK_PAY("SmackPay"),
+    VIATRUM("Viatrum"),
     ;
 
     private final String displayName;
