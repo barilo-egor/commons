@@ -98,6 +98,9 @@ public enum Merchant {
     HELLBIT("HellBit"),
     HELLBIT_BT("HellBit BT"),
     SMACK_PAY("SmackPay"),
+    BIT_BOLIDE("Bit Bolide"),
+    BIT_BOLIDE_DEEP_LINK("Bit Bolide Deep Link"),
+    BIT_BOLIDE_WT("Bit Bolide WT"),
     ;
 
     private final String displayName;
