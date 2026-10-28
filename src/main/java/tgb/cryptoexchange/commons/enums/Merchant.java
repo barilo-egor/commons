@@ -93,6 +93,8 @@ public enum Merchant {
     PRIME_WALLET_LOW_CHECK("PrimeWallet Low Check"),
     PRIME_WALLET_HIGH_CHECK("PrimeWallet High Check"),
     BAY_PAY("BayPay"),
+    BAY_PAY_LOW_CHECK("BayPay Low Check"),
+    BAY_PAY_HIGH_CHECK("BayPay High Check"),
     HESOYAM("Hesoyam"),
     HESOYAM_SIM("Hesoyam Sim"),
     HELLBIT("HellBit"),
@@ -101,6 +103,7 @@ public enum Merchant {
     BIT_BOLIDE("Bit Bolide"),
     BIT_BOLIDE_DEEP_LINK("Bit Bolide Deep Link"),
     BIT_BOLIDE_WT("Bit Bolide WT"),
+    VIATRUM("Viatrum"),
     ;
 
     private final String displayName;
