@@ -89,7 +89,7 @@ public enum Merchant {
     TRON_EX_BT("TronEx BT"),
     TRON_EX_QR("TronEx QR"),
     TRON_EX_PDF("TronEx PDF"),
-    TRON_EX_DEEP_LINK("TronEx Deep Link"),
+    TRON_EX_DEEP_LINK("TronEx DL"),
     PRIME_WALLET("PrimeWallet"),
     PRIME_WALLET_LOW_CHECK("PrimeWallet Low Check"),
     PRIME_WALLET_HIGH_CHECK("PrimeWallet High Check"),
@@ -102,7 +102,7 @@ public enum Merchant {
     HELLBIT_BT("HellBit BT"),
     SMACK_PAY("SmackPay"),
     BIT_BOLIDE("Bit Bolide"),
-    BIT_BOLIDE_DEEP_LINK("Bit Bolide Deep Link"),
+    BIT_BOLIDE_DEEP_LINK("Bit Bolide DL"),
     BIT_BOLIDE_WT("Bit Bolide WT"),
     VIATRUM("Viatrum"),
     ;
