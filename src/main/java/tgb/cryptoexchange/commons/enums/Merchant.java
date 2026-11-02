@@ -100,7 +100,6 @@ public enum Merchant {
     HESOYAM_SIM("Hesoyam Sim"),
     HELLBIT("HellBit"),
     HELLBIT_BT("HellBit BT"),
-    HELLBIT_RECEIPT("HellBit Receipt"),
     SMACK_PAY("SmackPay"),
     BIT_BOLIDE("Bit Bolide"),
     BIT_BOLIDE_DEEP_LINK("Bit Bolide DL"),

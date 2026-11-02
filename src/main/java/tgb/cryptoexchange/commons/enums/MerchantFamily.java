@@ -76,7 +76,7 @@ public enum MerchantFamily {
     PRIME_WALLET(Merchant.PRIME_WALLET, Merchant.PRIME_WALLET_LOW_CHECK, Merchant.PRIME_WALLET_HIGH_CHECK),
     BAY_PAY(Merchant.BAY_PAY, Merchant.BAY_PAY_LOW_CHECK, Merchant.BAY_PAY_HIGH_CHECK),
     HESOYAM(Merchant.HESOYAM, Merchant.HESOYAM_SIM),
-    HELLBIT(Merchant.HELLBIT, Merchant.HELLBIT_BT, Merchant.HELLBIT_RECEIPT),
+    HELLBIT(Merchant.HELLBIT, Merchant.HELLBIT_BT),
     SMACK_PAY(Merchant.SMACK_PAY),
     BIT_BOLIDE(Merchant.BIT_BOLIDE, Merchant.BIT_BOLIDE_DEEP_LINK, Merchant.BIT_BOLIDE_WT),
     VIATRUM(Merchant.VIATRUM);
