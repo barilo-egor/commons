@@ -19,5 +19,13 @@ public enum CryptoCurrency {
     /**
      * Криптовалюта MONERO
      */
-    MONERO
+    MONERO,
+    /**
+     * Криптовалюта TRON
+     */
+    TRON,
+    /**
+     * Криптовалюта ETHEREUM
+     */
+    ETHEREUM
 }
