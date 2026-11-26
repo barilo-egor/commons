@@ -106,6 +106,7 @@ public enum Merchant {
     BIT_BOLIDE_DEEP_LINK("Bit Bolide DL"),
     BIT_BOLIDE_WT("Bit Bolide WT"),
     VIATRUM("Viatrum"),
+    CANPAY("CanPay"),
     ;
 
     private final String displayName;
