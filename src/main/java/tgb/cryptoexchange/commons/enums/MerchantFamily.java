@@ -79,7 +79,8 @@ public enum MerchantFamily {
     HELLBIT(Merchant.HELLBIT, Merchant.HELLBIT_BT, Merchant.HELLBIT_RECEIPT),
     SMACK_PAY(Merchant.SMACK_PAY),
     BIT_BOLIDE(Merchant.BIT_BOLIDE, Merchant.BIT_BOLIDE_DEEP_LINK, Merchant.BIT_BOLIDE_WT),
-    VIATRUM(Merchant.VIATRUM);
+    VIATRUM(Merchant.VIATRUM),
+    CANPAY(Merchant.CANPAY);
 
     private final Set<Merchant> merchants;
 
