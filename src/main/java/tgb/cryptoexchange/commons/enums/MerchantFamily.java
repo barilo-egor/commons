@@ -22,9 +22,9 @@ public enum MerchantFamily {
     ONYX_PAY(Merchant.ONYX_PAY),
     EXTASY_PAY(
             Merchant.EXTASY_PAY,
-            Merchant.EXTASY_PAY_RECEIPT,
-            Merchant.EXTASY_PAY_RECEIPT_3,
-            Merchant.EXTASY_PAY_QR
+            Merchant.EXTASY_PAY_PDF,
+            Merchant.EXTASY_PAY_QR_NSPK,
+            Merchant.EXTASY_PAY_QR_VIET
     ),
     PAY_LEE(Merchant.PAY_LEE, Merchant.PAY_LEE_QR),
     PAYSCROW(

@@ -46,7 +46,7 @@ class MerchantFamilyTest {
     @ParameterizedTest
     @CsvSource({
             "EXTASY_PAY,EXTASY_PAY",
-            "EXTASY_PAY_RECEIPT_3,EXTASY_PAY",
+            "EXTASY_PAY_QR_VIET,EXTASY_PAY",
             "TRON_EX_QR,TRON_EX",
             "TRON_EX_DEEP_LINK,TRON_EX",
             "PLATA_18,PLATA",
